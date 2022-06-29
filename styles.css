@@ -1,0 +1,17 @@
+@import url('http://fonts.cdnfonts.com/css/arcade-classic');
+
+body {
+  color: #dddddd;
+  background-color: #0c0d10; 
+  font-size: 16px;
+  line-height: 16px;
+  margin: 0 auto;
+}
+
+#title{
+  font-family: 'ArcadeClassic', sans-serif; 
+  color:rgb(253, 249, 23);
+  font-size: 700%;
+  width: 700px;
+  margin: 0 auto;
+}
